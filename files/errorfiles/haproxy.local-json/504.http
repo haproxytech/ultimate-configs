@@ -1,0 +1,7 @@
+HTTP/1.0 504 Gateway Time-out
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{ "errors" : [ { "status" : "504", "title" : "Gateway Time-out", "detail" : "The server didn't respond in time." } ] }
+

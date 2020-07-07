@@ -1,0 +1,7 @@
+HTTP/1.0 404 Not Found
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json 
+
+{ "errors" : [ { "status" : "404", "title" : "File not found", "detail" : "File not found." } ] }
+

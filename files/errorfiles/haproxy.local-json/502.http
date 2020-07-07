@@ -1,0 +1,7 @@
+HTTP/1.0 502 Bad Gateway
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{ "errors" : [ { "status" : "502", "title" : "Bad Gateway", "detail" : "The server returned an invalid or incomplete response." } ] }
+ 

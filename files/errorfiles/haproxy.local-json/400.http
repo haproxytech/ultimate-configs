@@ -1,0 +1,7 @@
+HTTP/1.0 400 Bad request
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{ "errors" : [ { "status" : "400", "title" : "Bad request", "detail" : "Your client sent an invalid request." } ] }
+

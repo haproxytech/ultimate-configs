@@ -1,0 +1,7 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{ "errors" : [ { "status" : "503", "title" : "Service unavailable", "detail" : "No server is available to handle this request." } ] }
+

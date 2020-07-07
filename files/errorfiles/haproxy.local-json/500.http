@@ -1,0 +1,7 @@
+HTTP/1.0 500 Internal Server Error
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{ "errors" : [ { "status" : "500", "title" : "Internal Server Error", "detail" : "An internal server error occurred." } ] }
+ 

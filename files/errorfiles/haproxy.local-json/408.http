@@ -1,0 +1,7 @@
+HTTP/1.0 408 Request Time-out
+Cache-Control: no-cache
+Connection: close
+Content-Type: application/json
+
+{ "errors" : [ { "status" : "408", "title" : Request time-out", "detail" : "Your client didn't send a complete request in time." } ] }
+
